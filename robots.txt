@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guylaine-michelet.github.io/publications/sitemap.xml
